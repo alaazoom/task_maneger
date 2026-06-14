@@ -1,3 +1,5 @@
+![Task Manager Banner](mo1.jpg)
+
 # Task Manager App 📝
 
 A simple and user-friendly **Task Manager** application built with **Flutter** that helps users organize and manage their daily tasks efficiently.
